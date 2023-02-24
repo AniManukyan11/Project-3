@@ -1,3 +1,14 @@
-.App {
-  text-align: center;
+
+.Header nav a {
+  padding: 10px;
+}
+.Home{
+  display: flex;
+
+
+}
+.Home image{
+  width: 100%;
+  margin-bottom: 50px;
+  background-color: blue;
 }

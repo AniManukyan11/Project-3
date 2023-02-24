@@ -1,0 +1,21 @@
+.main_block h2{
+text-align: center;
+color:mediumpurple ;
+}
+.main_images{
+    justify-content: center;
+    padding: 0 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.images{
+    width: 350px;
+    height: 300px;
+    
+}
+.images img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

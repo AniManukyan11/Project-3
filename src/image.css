@@ -1,0 +1,8 @@
+.single_image{
+    padding: 40px;
+    height: 60vh;
+}
+.single_image p{
+    display: flex;
+    
+}

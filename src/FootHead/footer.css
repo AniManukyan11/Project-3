@@ -1,0 +1,34 @@
+.footer{
+    background-color: rgb(112, 96, 127);
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.footer h5 {
+  margin: 0;
+    font-size: 30px;
+}
+
+.footer ul {
+    display: flex;
+    list-style: none;
+    font-size: small;
+    gap: 30px;
+}
+
+.footer a {
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(254, 252, 252);
+}
+
+
+
+
+
+.footer a:hover {
+    color: rgb(246, 190, 141);
+}
